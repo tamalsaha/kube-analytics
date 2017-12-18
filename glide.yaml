@@ -1,4 +1,4 @@
-package: github.com/tamalsaha/leader-election-demo
+package: github.com/tamalsaha/kube-analytics
 import:
 - package: github.com/appscode/go
 - package: k8s.io/api

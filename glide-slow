@@ -5,7 +5,7 @@
 # - ???
 # - Profit
 
-pushd $GOPATH/src/github.com/tamalsaha/leader-election-demo
+pushd $GOPATH/src/github.com/tamalsaha/kube-analytics
 
 glide up -v
 glide vc --only-code --no-tests
